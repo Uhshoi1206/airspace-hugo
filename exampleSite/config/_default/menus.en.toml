@@ -58,7 +58,7 @@ weight = 2
 
 [[footer]]
 name = "Sản phẩm"
-url = "project/"
+url = "san-pham/"
 weight = 3
 
 [[footer]]
