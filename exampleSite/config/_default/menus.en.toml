@@ -13,7 +13,7 @@ weight = 2
 
 [[main]]
 name = "sản phẩm"
-url = "project/"
+url = "san-pham/"
 weight = 3
 
 [[main]]
