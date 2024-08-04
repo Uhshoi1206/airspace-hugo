@@ -2,12 +2,12 @@
 
 # main menu
 [[main]]
-name = "Home"
+name = "Trang chủ"
 url = ""
 weight = 1
 
 [[main]]
-name = "About"
+name = "Về chúng tôi"
 url = "about/"
 weight = 2
 
@@ -52,17 +52,17 @@ weight = 6
 
 # footer menu
 [[footer]]
-name = "About"
+name = "Về chúng tôi"
 url = "about/"
 weight = 2
 
 [[footer]]
-name = "Project"
+name = "Sản phẩm"
 url = "project/"
 weight = 3
 
 [[footer]]
-name = "Service"
+name = "Dịch vụ"
 url = "service/"
 weight = 4
 
@@ -77,6 +77,6 @@ url = "faq/"
 weight = 6
 
 [[footer]]
-name = "Contact"
+name = "Liên hệ"
 url = "contact/"
 weight = 7
