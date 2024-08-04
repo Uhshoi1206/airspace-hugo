@@ -12,7 +12,7 @@ url = "about/"
 weight = 2
 
 [[main]]
-name = "Các sản phẩm"
+name = "sản phẩm"
 url = "project/"
 weight = 3
 
