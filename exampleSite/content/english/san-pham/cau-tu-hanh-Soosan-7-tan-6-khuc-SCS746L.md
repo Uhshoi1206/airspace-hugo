@@ -18,6 +18,8 @@ information:
     info : "19.6 (24.6) m (cần nâng)"
   - label : "Chiều cao làm việc lớn nhất"
     info : "22.6 (27.6) m (cần nâng)"
+  - label : "Loại/đoạn của Cần"
+    info : "Lục gác/6"
 ---
 
 ## Behance Website Redesign
