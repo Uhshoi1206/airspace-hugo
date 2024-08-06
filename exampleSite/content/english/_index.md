@@ -75,12 +75,12 @@ funfacts:
   # funfacts item loop
   - icon: "fas fa-user-tie" #https://fontawesome.com/v5.15/icons
     name: "Khách hàng tin dùng sản phẩm"
-    count: "5,200"
+    count: "5200"
 
   # funfacts item loop
   - icon: "fas fa-trailer" #https://fontawesome.com/v5.15/icons
     name: "Sản phẩm được đưa vào sử dụng"
-    count: "12,000"
+    count: "12000"
 
   testimonial_slider:
   # testimonial item loop
