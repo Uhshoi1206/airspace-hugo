@@ -69,13 +69,13 @@ funfacts:
 
   # funfacts item loop
   - icon: "fas fa-industry" #https://fontawesome.com/v5.15/icons
-    name: "Diện tích nhà xưởng"
-    count: "8+ ha"
+    name: "Diện tích nhà xưởng (ha)"
+    count: "8"
 
   # funfacts item loop
   - icon: "fas fa-user-tie" #https://fontawesome.com/v5.15/icons
     name: "Khách hàng tin dùng sản phẩm"
-    count: "5,200+"
+    count: "5,200"
 
   # funfacts item loop
   - icon: "fas fa-trailer" #https://fontawesome.com/v5.15/icons
