@@ -68,14 +68,14 @@ funfacts:
     count: "18"
 
   # funfacts item loop
-  - icon: "fas fa-industry-alt" #https://fontawesome.com/v5.15/icons
+  - icon: "fas fa-industry" #https://fontawesome.com/v5.15/icons
     name: "Diện tích nhà xưởng"
     count: "8+ ha"
 
   # funfacts item loop
-  - icon: "fas fa-keyboard" #https://fontawesome.com/v5.15/icons
-    name: "Projects Completed"
-    count: "125"
+  - icon: "fas fa-user-tie" #https://fontawesome.com/v5.15/icons
+    name: "Khách hàng tin dùng sản phẩm"
+    count: "5,200+"
 
   # funfacts item loop
   - icon: "fas fa-clock" #https://fontawesome.com/v5.15/icons
