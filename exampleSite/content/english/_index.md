@@ -78,9 +78,9 @@ funfacts:
     count: "5,200+"
 
   # funfacts item loop
-  - icon: "fas fa-clock" #https://fontawesome.com/v5.15/icons
-    name: "Combined Projects"
-    count: "200"
+  - icon: "fas fa-trailer" #https://fontawesome.com/v5.15/icons
+    name: "Sản phẩm được đưa vào sử dụng"
+    count: "12,000"
 
   testimonial_slider:
   # testimonial item loop
