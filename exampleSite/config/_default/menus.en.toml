@@ -39,21 +39,11 @@ url = "san-pham/"
 weight = 3
 
 [[footer]]
-name = "Dịch vụ"
-url = "service/"
+name = "Blog"
+url = "blog/"
 weight = 4
-
-[[footer]]
-name = "Pricing"
-url = "pricing/"
-weight = 5
-
-[[footer]]
-name = "FAQ"
-url = "faq/"
-weight = 6
 
 [[footer]]
 name = "Liên hệ"
 url = "contact/"
-weight = 7
+weight = 5
