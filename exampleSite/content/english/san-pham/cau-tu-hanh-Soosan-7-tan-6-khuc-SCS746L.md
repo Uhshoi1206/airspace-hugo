@@ -1,23 +1,23 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
+title: "Cẩu tự hành SOOSAN 7 tấn 6 khúc SCS746L"
+description: "Cần cẩu tự hành 7 tấn SOOSAN SCS746L"
 draft: false
 image : "images/portfolio/work1.jpg"
 bg_image: "images/feature-bg.jpg"
 category: "Cẩu"
 information:
-  - label : "Client"
-    info : "Jannie Kelonsky"
-  - label : "What We Did"
-    info : "Website Redesign"
-  - label : "Tools Used"
-    info : "Photoshop,Illustrator"
-  - label : "Completed on"
-    info : "17th March 2014"
-  - label : "Skills"
-    info : "HTML5 / PHP / CSS3"
-  - label : "Client"
-    info : "Jannie Kelonsky"
+  - label : "Nhãn hiệu"
+    info : "Soosan"
+  - label : "Model"
+    info : "SCS746L"
+  - label : "Mômen nâng lớn nhất"
+    info : "17.5 Tấn.m"
+  - label : "Chiều cao nâng lớn nhất"
+    info : "22.1 (27.1) m (cần nâng)"
+  - label : "Bán kính làm việc lớn nhất"
+    info : "19.6 (24.6) m (cần nâng)"
+  - label : "Chiều cao làm việc lớn nhất"
+    info : "22.6 (27.6) m (cần nâng)"
 ---
 
 ## Behance Website Redesign
