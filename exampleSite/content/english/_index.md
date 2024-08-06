@@ -68,9 +68,9 @@ funfacts:
     count: "18"
 
   # funfacts item loop
-  - icon: "fas fa-glasses" #https://fontawesome.com/v5.15/icons
-    name: "Article Written"
-    count: "45"
+  - icon: "fas fa-industry-alt" #https://fontawesome.com/v5.15/icons
+    name: "Diện tích nhà xưởng"
+    count: "8+ ha"
 
   # funfacts item loop
   - icon: "fas fa-keyboard" #https://fontawesome.com/v5.15/icons
