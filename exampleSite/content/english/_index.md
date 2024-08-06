@@ -63,9 +63,9 @@ funfacts:
   description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
   funfact_item:
   # funfacts item loop
-  - icon: "fas fa-mug-hot" #https://fontawesome.com/v5.15/icons
-    name: "Cups Of Coffee"
-    count: "99"
+  - icon: "fas fa-calendar-check" #https://fontawesome.com/v5.15/icons
+    name: "Năm hoạt động tại Việt Nam"
+    count: "18"
 
   # funfacts item loop
   - icon: "fas fa-glasses" #https://fontawesome.com/v5.15/icons
